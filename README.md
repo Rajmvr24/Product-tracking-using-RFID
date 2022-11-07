@@ -51,8 +51,6 @@ To get the source code for the for the nfc04a1 and the stm32l152re, stmcubemx so
 
 ##	Programming EEPROM
 
-<br/>
-
 While programming RFID tag, depends on the application various content will  be added to the non volatile EEPROM memory, but in most application the following different variables are used and they are declared in structure for the collection of different content.
 
 - CustomerOrderCode:  A separate ID code for user order.
@@ -74,8 +72,6 @@ While programming RFID tag, depends on the application various content will  be 
 <br/>
 
 ## Data in tag memory
-
-<br/>
 
 A smart phone with NFC enabled st25nfc app installed is used as reader.The data which are stored in the eeprom  of the  tag is stored energy-independently in Tag Flash (i.e) after disconnecting the power suply, the data in the eeprom of tag will not get deleted, it will remain same.
 
