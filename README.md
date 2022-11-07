@@ -38,8 +38,6 @@ To develope  the firmware for the st25dv04k, The X-NUCLEO-NFC04A1 dynamic NFC/RF
 
 To get the source code for the for the nfc04a1 and the stm32l152re, stmcubemx software is used. The stm32l152re nucleo board  is selected in cubemx In the additional software x cube nfc4 is selected . And the code is generated in the spcified folder.
 
-<br/>
-
 
 <br/>
 <p align="center">
