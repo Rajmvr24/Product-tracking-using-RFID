@@ -13,7 +13,7 @@
   </p>
 </p>
 
-## About The Task
+## Tasks
 
 <br/>
 
@@ -32,7 +32,6 @@ To develope  the firmware for the st25dv04k, The X-NUCLEO-NFC04A1 dynamic NFC/RF
   </a>
 </p>
 <br/>
-<br/>
 
 ## Configuration of stm32l152RE
 
@@ -49,7 +48,6 @@ To get the source code for the for the nfc04a1 and the stm32l152re, stmcubemx so
     <img src="config.png" alt="chart" width="1000" height="650">
   </a>
 </p>
-<br/>
 <br/>
 
 ##	Programming EEPROM
@@ -74,7 +72,6 @@ While programming RFID tag, depends on the application various content will  be 
 
 - QualityControlPersonID: ID of the person who is responsible for quality
 
-<br/>
 <br/>
 
 ## Data in tag memory
